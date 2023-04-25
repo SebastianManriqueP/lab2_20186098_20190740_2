@@ -16,6 +16,7 @@
     </string-array>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/poppins_bold</item>
+<<<<<<< HEAD
         <item>@font/poppins_semibold</item>
         <item>@font/poppins_thin</item>
     </array>
@@ -28,11 +29,29 @@
     <color name="gray3">#828282</color>
     <color name="gray6">#FCFCFC</color>
     <color name="greengray">#6C7976</color>
+=======
+        <item>@font/poppins_medium</item>
+    </array>
+    <color name="black">#FF000000</color>
+    <color name="cloony">#C1BEC1</color>
+    <color name="colorblackgreen">#273431</color>
+    <color name="cornflowerblue">#419BF9</color>
+    <color name="gandalf">#979197</color>
+    <color name="gray1">#333333</color>
+    <color name="gray2">#4F4F4F</color>
+    <color name="gray3">#828282</color>
+    <color name="gray6">#FCFCFC</color>
+    <color name="greengrey">#6C7976</color>
+>>>>>>> feature/confirmation
     <color name="karl">#EDECED</color>
     <color name="lightorange">#FDBD39</color>
     <color name="peach">#EE6723</color>
     <color name="primary">#6ABDA6</color>
+<<<<<<< HEAD
     <color name="purple_200">#FFBB86FC</color>
+=======
+    <color name="purple_200">#6ABDA6</color>
+>>>>>>> feature/confirmation
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="royalblue">#2E6FB4</color>
@@ -43,11 +62,17 @@
     <color name="teflon">#554D56</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">lab2_20186098_20190740</string>
+<<<<<<< HEAD
     <string name="checkbox1">He leído y aceptado los <b>Términos y  Condiciones.</b></string>
     <string name="checkbox2">¿Usted ha leído los términos y condiciones para el tratamineto de sus datos personales contenidos en la <b>Política de Privacidad de Web?</b></string>
     <style name="Theme.Lab2_20186098_20190740" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
+=======
+    <style name="Theme.Lab2_20186098_20190740" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+>>>>>>> feature/confirmation
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         

@@ -22,6 +22,7 @@ com.example.lab2_20186098_20190740.app-appcompat-resources-1.6.1-20 C:\Users\ASU
 com.example.lab2_20186098_20190740.app-startup-runtime-1.1.1-21 C:\Users\ASUS\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\res
 com.example.lab2_20186098_20190740.app-core-1.9.0-22 C:\Users\ASUS\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\res
 com.example.lab2_20186098_20190740.app-core-ktx-1.9.0-23 C:\Users\ASUS\.gradle\caches\transforms-3\f6c47861666c723a6e14604b0a167eca\transformed\core-ktx-1.9.0\res
+<<<<<<< HEAD
 com.example.lab2_20186098_20190740.app-pngs-24 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\build\generated\res\pngs\debug
 com.example.lab2_20186098_20190740.app-resValues-25 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\build\generated\res\resValues\debug
 com.example.lab2_20186098_20190740.app-rs-26 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\build\generated\res\rs\debug
@@ -30,3 +31,13 @@ com.example.lab2_20186098_20190740.app-packageDebugResources-28 C:\Users\ASUS\An
 com.example.lab2_20186098_20190740.app-merged_res-29 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\build\intermediates\merged_res\debug
 com.example.lab2_20186098_20190740.app-debug-30 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\src\debug\res
 com.example.lab2_20186098_20190740.app-main-31 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740--aaa\app\src\main\res
+=======
+com.example.lab2_20186098_20190740.app-pngs-24 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\generated\res\pngs\debug
+com.example.lab2_20186098_20190740.app-resValues-25 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\generated\res\resValues\debug
+com.example.lab2_20186098_20190740.app-rs-26 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\generated\res\rs\debug
+com.example.lab2_20186098_20190740.app-packageDebugResources-27 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab2_20186098_20190740.app-packageDebugResources-28 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab2_20186098_20190740.app-merged_res-29 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\build\intermediates\merged_res\debug
+com.example.lab2_20186098_20190740.app-debug-30 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\src\debug\res
+com.example.lab2_20186098_20190740.app-main-31 C:\Users\ASUS\AndroidStudioProjects\lab2_20186098_20190740_pruebassssss\app\src\main\res
+>>>>>>> feature/confirmation

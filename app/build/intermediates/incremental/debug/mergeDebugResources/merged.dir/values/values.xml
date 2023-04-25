@@ -16,8 +16,12 @@
     </string-array>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/poppins_bold</item>
+<<<<<<< HEAD
         <item>@font/poppins_semibold</item>
         <item>@font/poppins_thin</item>
+=======
+        <item>@font/poppins_medium</item>
+>>>>>>> feature/confirmation
     </array>
     <attr format="enum" name="animateCircleAngleTo">
         <enum name="bestChoice" value="0"/>
@@ -649,7 +653,11 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+<<<<<<< HEAD
     <color name="cloney">#C1BEC1</color>
+=======
+    <color name="cloony">#C1BEC1</color>
+>>>>>>> feature/confirmation
     <color name="colorblackgreen">#273431</color>
     <color name="cornflowerblue">#419BF9</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
@@ -696,10 +704,18 @@
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="gandalf">#979197</color>
+<<<<<<< HEAD
     <color name="gray2">#4F4F4F</color>
     <color name="gray3">#828282</color>
     <color name="gray6">#FCFCFC</color>
     <color name="greengray">#6C7976</color>
+=======
+    <color name="gray1">#333333</color>
+    <color name="gray2">#4F4F4F</color>
+    <color name="gray3">#828282</color>
+    <color name="gray6">#FCFCFC</color>
+    <color name="greengrey">#6C7976</color>
+>>>>>>> feature/confirmation
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="karl">#EDECED</color>
@@ -900,7 +916,11 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
+<<<<<<< HEAD
     <color name="purple_200">#FFBB86FC</color>
+=======
+    <color name="purple_200">#6ABDA6</color>
+>>>>>>> feature/confirmation
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="ripple_material_dark">#33ffffff</color>
@@ -1842,8 +1862,11 @@
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d/%2$d</string>
+<<<<<<< HEAD
     <string name="checkbox1">He leído y aceptado los <b>Términos y  Condiciones.</b></string>
     <string name="checkbox2">¿Usted ha leído los términos y condiciones para el tratamineto de sus datos personales contenidos en la <b>Política de Privacidad de Web?</b></string>
+=======
+>>>>>>> feature/confirmation
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
@@ -6108,9 +6131,15 @@
     <item name="windowActionBar">false</item>
     <item name="windowNoTitle">true</item>
   </style>
+<<<<<<< HEAD
     <style name="Theme.Lab2_20186098_20190740" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
+=======
+    <style name="Theme.Lab2_20186098_20190740" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+>>>>>>> feature/confirmation
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         

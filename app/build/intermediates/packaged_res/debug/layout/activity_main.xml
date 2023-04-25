@@ -239,4 +239,15 @@
 
 
 
+<<<<<<< HEAD
+=======
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="165dp"
+        tools:layout_editor_absoluteY="456dp" />
+
+>>>>>>> feature/confirmation
 </androidx.constraintlayout.widget.ConstraintLayout>

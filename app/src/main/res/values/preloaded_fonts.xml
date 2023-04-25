@@ -2,6 +2,7 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item>@font/poppins_bold</item>
         <item>@font/poppins_semibold</item>
         <item>@font/poppins_thin</item>
@@ -11,5 +12,9 @@
         <item>@font/poppins_medium</item>
         <item>@font/poppins_semibold</item>
 >>>>>>> feature/detail
+=======
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_medium</item>
+>>>>>>> feature/confirmation
     </array>
 </resources>

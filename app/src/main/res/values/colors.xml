@@ -10,15 +10,20 @@
     <color name="primary">#6ABDA6</color>
     <color name="lightorange">#FDBD39</color>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <color name="cloney">#C1BEC1</color>
 =======
     <color name="cloony">#C1BEC1</color>
 >>>>>>> feature/detail
+=======
+    <color name="cloony">#C1BEC1</color>
+>>>>>>> feature/confirmation
     <color name="softgold">#DECC91</color>
     <color name="teflon">#554D56</color>
     <color name="royalblue">#2E6FB4</color>
     <color name="gandalf">#979197</color>
     <color name="cornflowerblue">#419BF9</color>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <color name="peach">#EE6723</color>
     <color name="karl">#EDECED</color>
@@ -29,6 +34,8 @@
     <color name="gray3">#828282</color>
     <color name="secondarycolor">#FF5D57</color>
 =======
+=======
+>>>>>>> feature/confirmation
     <color name="karl">#EDECED</color>
     <color name="peach">#EE6723</color>
     <color name="gray6">#FCFCFC</color>
@@ -38,6 +45,9 @@
     <color name="gray2">#4F4F4F</color>
     <color name="gray3">#828282</color>
     <color name="secondarycolor">#FF5D57</color>
+<<<<<<< HEAD
 
 >>>>>>> feature/detail
+=======
+>>>>>>> feature/confirmation
 </resources>

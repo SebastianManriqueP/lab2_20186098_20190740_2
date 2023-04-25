@@ -27,7 +27,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.Lab2_20186098_20190740" >
         <activity
+<<<<<<< HEAD
             android:name="com.example.lab2_20186098_20190740.MainActivity3"
+=======
+            android:name="com.example.lab2_20186098_20190740.seleccionAsiento"
+>>>>>>> feature/confirmation
             android:exported="false" />
         <activity
             android:name="com.example.lab2_20186098_20190740.MainActivity"
