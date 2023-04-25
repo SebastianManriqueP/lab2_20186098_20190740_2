@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encodin_thg="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -88,7 +88,7 @@
                     android:background="@color/karl"
                     android:backgroundTint="@color/karl"
                     android:ems="10"
-                    android:fontFamily="@font/poppins"
+                    android:fontFamily="@font/poppins_thin"
                     android:hint="Correo"
                     android:paddingStart="56dp"
                     android:inputType="textEmailAddress"
@@ -110,7 +110,7 @@
                     android:background="@color/karl"
                     android:backgroundTint="@color/karl"
                     android:ems="10"
-                    android:fontFamily="@font/poppins"
+                    android:fontFamily="@font/poppins_thin"
                     android:hint="Contraseña"
                     android:paddingStart="56dp"
                     android:inputType="textPassword"
